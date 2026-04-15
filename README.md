@@ -31,7 +31,7 @@
 
 | Project Name | Description | Tech Used | Demo |
 |-------------|------------|----------|------|
-| Marketplace API | Developed a backend REST API for managing products and users with CRUD operations | Java, Spring Boot, MySQL | [View Project](Add-Link) |
+| Marketplace API | Developed a backend REST API for managing products and users with CRUD operations | Java, Spring Boot, MySQL | [View Project](https://github.com/Lalita69960/Marketplace_API) |
 | To-Do App | Built a task management app with create, update, and delete features | Java, Spring Boot | [Frontend](https://github.com/Lalita69960/Todo_Frontend1) \| [Backend](https://github.com/Lalita69960/final1_project_Todo_API_solved) |
 
 ---
