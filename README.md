@@ -1,6 +1,6 @@
-# Hi 👋 I'm Pratima Shahi
+# Hi 👋 I'm Lalita Shahi
 
-💻 Java Full Stack Developer (Trainee)  
+💻 Java Full Stack Developer 
 📍 Based in Sweden  
 
 ---
@@ -19,7 +19,7 @@
 | Category        | Skills |
 |----------------|--------|
 | Backend        | Java, Spring Boot |
-| Frontend       | HTML, CSS, JavaScript |
+| Frontend       | HTML, CSS, JavaScript ,APIs |
 | Database       | MySQL |
 | Tools          | Git, GitHub, IntelliJ IDEA |
 
@@ -32,7 +32,7 @@
 | Project Name | Description | Tech Used | Demo |
 |-------------|------------|----------|------|
 | Marketplace API | Developed a backend REST API for managing products and users with CRUD operations | Java, Spring Boot, MySQL | [Marketplace API](https://github.com/Lalita69960/Marketplace_API) |
-| To-Do App | Built a task management app with create, update, and delete features | Java, Spring Boot | [Frontend](https://github.com/Lalita69960/Todo_Frontend1) \| [Backend](https://github.com/Lalita69960/final1_project_Todo_API_solved) |
+| To-Do App | Built a task management app with create, update, and delete features | Java,java Script, react,Spring Boot,APIs,Node.js | [Frontend](https://github.com/Lalita69960/Todo_Frontend1) \| [Backend](https://github.com/Lalita69960/final1_project_Todo_API_solved) |,
 
 ---
 
