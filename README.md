@@ -52,9 +52,8 @@
 
 ## 🔗 Connect With Me
 
-- LinkedIn: (Add-Your-Link)
-- GitHub: (Add-Your-Link)
-
+- LinkedIn: [View Profile](https://www.linkedin.com/in/lalita-shahi-a4b449241/)
+- GitHub: [View Profile](https://github.com/Lalita69960)
 ---
 
 ✨ Thanks for visiting my profile!
